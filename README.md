@@ -8,7 +8,7 @@ Notice that with **empty separating lines** we can use Markdown inside HTML:
 
 <table>
 <tr>
-<th>Json 1</th>
+<th>ul tags</th>
 <th>Markdown</th>
 </tr>
 <tr>
